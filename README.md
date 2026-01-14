@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+**<div align="center">
+  <img src="https://github.com/rohitprakash-bireena/rohitprakash-bireena/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
+</div>**
 <!--
 **rohitprakash-bireena/rohitprakash-bireena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
