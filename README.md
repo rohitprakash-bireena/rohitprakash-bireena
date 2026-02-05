@@ -1,11 +1,9 @@
-## Hi there 👋
-**<div align="center">
-  <img src="https://github.com/rohitprakash-bireena/rohitprakash-bireena/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
-</div>**
+## Hi there 👋 I am Rohit Prakash.
+
 <!--
 **rohitprakash-bireena/rohitprakash-bireena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+My Status:-
 
 - 🔭 I’m currently working on: A Bieena Medico Software Application and Agaz Foundation management System for my internship at Bireena Info Tech.
 - 🌱 I’m currently learning: AI and Full Stack Web Development with Node.js and MongoDB.
@@ -15,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can reach me via my Github account and find me in Patna.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Indian Cricket and big fan of M.S Dhoni.
+
+- **<div align="center">
+  <img src="https://github.com/rohitprakash-bireena/rohitprakash-bireena/blob/output/github-contribution-grid-snake.svg" alt="snake-game" />
+</div>**
 
